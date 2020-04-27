@@ -33,6 +33,8 @@ link = https://github.com/BalamiRR/SpringBoot-Projects
 
 ===> Simple example of Spring Boot and PosgtreSQL connection for beginner.
 
+link = https://github.com/BalamiRR/SpringBoot_PostgreSQL
+
 =====================
 
 ### BalamiRR/Spring-Boot-Project
