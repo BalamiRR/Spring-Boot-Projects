@@ -23,7 +23,7 @@ link = https://github.com/BalamiRR/SpringBoots-PostgreSQL
 
 ### BalamiRR/SpringBoot-Projects
 
-===> Simple example of Spring Boot using GET, POST, PUT, DELETE without database(PostgreSQL). 
+===> Simple example of Spring Boot using GET, POST, PUT, DELETE without database. 
 
 link = https://github.com/BalamiRR/SpringBoot-Projects
 
