@@ -1,4 +1,6 @@
 ## SpringBoot - JPA
 
-In this project, using JPA to connect MySQL over Spring Boot.
+In this project, In this project, everything is about connecting JPA to  MySQL over Spring Boot.
+
+GET POST DELETE PUT (CRUD)
 
