@@ -43,7 +43,7 @@ link = https://github.com/BalamiRR/Spring-Boot-Project
 
 ### BalamiRR/SpringBoot
 
-==> Spring Boot with Angular
+==> Spring Boot with Angular 
 
 link = https://github.com/BalamiRR/SpringBoot_PostgreSQL  
 
