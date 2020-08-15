@@ -35,7 +35,7 @@ link = https://github.com/BalamiRR/SpringBoot_PostgreSQL
 
 ### BalamiRR/Spring-Boot-Project
 
-==> In this project you can edit or add car on the list. 
+==> In this project you can edit or add car on the list..
 
 link = https://github.com/BalamiRR/Spring-Boot-Project
 
