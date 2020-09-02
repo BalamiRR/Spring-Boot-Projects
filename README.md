@@ -10,7 +10,7 @@ Here below, you can find some of projects which were not added on this folder. H
 =====================
 
 ### BalamiRR/SpringBoots-PostgreSQL   
-===> You can find Spring Boot and PostgreSQL Project which are about connection to the database using GET, POST, PUT, DELETE requests on this file
+===> You can find Spring Boot and PostgreSQL Project which are about connection to the database using GET, POST, PUT, DELETE requests on this file.
 
 link = https://github.com/BalamiRR/SpringBoots-PostgreSQL
 
