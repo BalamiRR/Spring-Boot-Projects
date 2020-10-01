@@ -1,4 +1,4 @@
-# Spring-Boot-Projects 
+# Spring-Boot-Projects
 Spring Boot Projects
 
 All about Spring Boot projects are here below, you can find some of projects which were not added on this folder. However, you can check out those projects which were placed on Repositories.
